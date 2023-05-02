@@ -46,19 +46,19 @@ font-face
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Regular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Regular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Regular.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Regular.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Bold.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Bold.ttf') format('truetype');
 }
 @font-face {
     font-family: 'CookieRun';
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Regular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Regular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Regular.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Regular.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Black.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Black.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Black.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/CookieRun/CookieRun-Black.ttf') format('truetype');
 }
 ```
